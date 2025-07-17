@@ -1,0 +1,2 @@
+background: Assets/DialogueBackgrounds/MainMenuBackground.bmp
+line: Press Space to start the game

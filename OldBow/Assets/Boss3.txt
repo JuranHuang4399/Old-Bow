@@ -1,0 +1,5 @@
+ID: 3
+Name: Duke of the Pit
+HP: 16
+PatternList: Rain, Spread, Ultimate
+Texture: Assets/Dragon.bmp

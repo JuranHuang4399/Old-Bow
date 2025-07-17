@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['void_0',['void',['../struct_s_d_l___virtual_joystick_desc.html#a787c36ed21a470e96cb69b000c4839ac',1,'SDL_VirtualJoystickDesc::void(SDLCALL *Update)(void *userdata)'],['../struct_s_d_l___virtual_joystick_desc.html#ac27dbdc269879dd4c47086d65d10e7c6',1,'SDL_VirtualJoystickDesc::void(SDLCALL *SetPlayerIndex)(void *userdata'],['../_s_d_l__opengl_8h.html#a46df6112013cf583e82b25cebd5cb499',1,'void(APIENTRYP PFNGLDRAWRANGEELEMENTSPROC)(GLenum mode:&#160;SDL_opengl.h'],['../_s_d_l__opengl__glext_8h.html#a46df6112013cf583e82b25cebd5cb499',1,'void(APIENTRYP PFNGLDRAWRANGEELEMENTSPROC)(GLenum mode:&#160;SDL_opengl_glext.h'],['../_s_d_l__opengles2__gl2_8h.html#a49243df5170256555d770b8438223a22',1,'void(GL_APIENTRYP PFNGLACTIVETEXTUREPROC)(GLenum texture):&#160;SDL_opengles2_gl2.h'],['../_s_d_l__opengles2__gl2ext_8h.html#ad29ae09f59bd2e8dbbacd1c9d1c37c94',1,'void(GL_APIENTRYP PFNGLBLENDBARRIERKHRPROC)(void):&#160;SDL_opengles2_gl2ext.h']]]
+];

@@ -1,0 +1,5 @@
+background: Assets/DialogueBackgrounds/SceneDeath.bmp
+line: Your defiance, silenced beneath the weight of the dead.
+line: Flames devour the village as darkness swallows you whole.
+line: ...
+line: GameOver

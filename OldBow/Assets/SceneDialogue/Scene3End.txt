@@ -1,0 +1,6 @@
+background: Assets/DialogueBackgrounds/Scene3EndBackground.bmp
+line: The earth shakes, the beast falls, and for a moment, you wonder how you survived.
+Line: Everything around you is a blur—the battle, the terror, and the bloodshed. How did you win? How did it end?
+line: But as the smoke clears and silence takes its place, one thing becomes certain: the village is safe. For now, the world has been spared...
+line: Scene 3 Clear!
+line: Victory!

@@ -1,0 +1,5 @@
+background: Assets/DialogueBackgrounds/SceneDeath.bmp
+line: Even in death, their blades find purchase.
+line: Flames devour the village as darkness swallows you whole.
+line: ...
+line: GameOver

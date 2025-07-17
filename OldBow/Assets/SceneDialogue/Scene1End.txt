@@ -1,0 +1,5 @@
+background: Assets/DialogueBackgrounds/Scene1EndBackground.bmp
+line: Your arrows found their mark, yet their advance seemed relentless.
+line: You lower your bow, but your hands tremble against the string's memory.
+line: Though the bones lie still, dread lingers like an unspoken threat...
+line: Scene 1 Clear!

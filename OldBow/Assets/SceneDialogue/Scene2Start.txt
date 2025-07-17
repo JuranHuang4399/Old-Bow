@@ -1,0 +1,6 @@
+background: Assets/DialogueBackgrounds/Scene2StartBackground.bmp
+line: You caution the villagers to seek shelter, your words careful but uncertain.
+line: Then, the cadence of marching boots echoes behind you-too familiar to ignore.
+line: You turn, and dread knots in your chest: a procession of armored dead, led by a crowned corpse, regal even in decay.
+line: The sight alone sways those who doubted your instinct, as fear steals the last of their hesitation.
+line: Alone, you draw your bow once more, stepping into the path of the advancing horde, as the echoes of retreat fade behind you.

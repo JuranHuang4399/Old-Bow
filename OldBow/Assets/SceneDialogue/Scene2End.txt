@@ -1,0 +1,5 @@
+background: Assets/DialogueBackgrounds/Scene2EndBackground.bmp
+line: You stand among the fallen, your breath ragged, unable to believe you're still alive after facing such a force.
+line: As you approach the fallen king, his hand, cold as death, suddenly grasps yours with surprising strength.
+line: 'Run,' he whispers, his voice trembling, 'before he comes for you too...'
+line: Scene 2 Clear!

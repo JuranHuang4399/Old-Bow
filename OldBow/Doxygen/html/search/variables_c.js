@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['magnitude_0',['magnitude',['../struct_s_d_l___haptic_periodic.html#aad0ad2b00c7e6959da627663d91f7b94',1,'SDL_HapticPeriodic']]],
+  ['major_1',['major',['../struct_s_d_l__version.html#ad7d7674532073eed237b90f546c97cd0',1,'SDL_version']]],
+  ['manufacturer_5fstring_2',['manufacturer_string',['../struct_s_d_l__hid__device__info.html#ac874d63dbfe581736033f266f08fd51a',1,'SDL_hid_device_info']]],
+  ['map_3',['map',['../struct_s_d_l___surface.html#ac68afc0e3de01e3f40cb8bce2606e71b',1,'SDL_Surface']]],
+  ['max_5ftexture_5fheight_4',['max_texture_height',['../struct_s_d_l___renderer_info.html#a87c6a13e8d535c2148f8913c05e13102',1,'SDL_RendererInfo']]],
+  ['max_5ftexture_5fwidth_5',['max_texture_width',['../struct_s_d_l___renderer_info.html#a6e6757e3d5c1f0922adaba39380edfa6',1,'SDL_RendererInfo']]],
+  ['maxnum_6',['maxnum',['../struct_s_d_l___r_wops.html#a7786282ec28451085908f70048ee32c8',1,'SDL_RWops']]],
+  ['mcomponents_7',['mComponents',['../class_game_entity.html#a26bba98c4d0b3c0df5d02e0d91a9a9a1',1,'GameEntity']]],
+  ['mem_8',['mem',['../struct_s_d_l___r_wops.html#ac8393a7a0dbcca1b8146ef5d31ea42a8',1,'SDL_RWops']]],
+  ['message_9',['message',['../struct_s_d_l___message_box_data.html#ada6ae208a1f85adabbd7a7a08ca609c8',1,'SDL_MessageBoxData']]],
+  ['mgesture_10',['mgesture',['../union_s_d_l___event.html#ac19b3c6a6b5181a51eb4fbe2cbe726a9',1,'SDL_Event']]],
+  ['minor_11',['minor',['../struct_s_d_l__version.html#a6c35c7bf80245028d5970e6a504ecf57',1,'SDL_version']]],
+  ['mod_12',['mod',['../struct_s_d_l___keysym.html#ab519d1b8a9939d3d035f7103f3208291',1,'SDL_Keysym']]],
+  ['mode_13',['mode',['../struct_s_d_l___window_shape_mode.html#a40ebd8b9a76d982cbd87563386cc05de',1,'SDL_WindowShapeMode']]],
+  ['motion_14',['motion',['../union_s_d_l___event.html#ac3c89e190faacbe84280cd539453bab6',1,'SDL_Event']]],
+  ['mousex_15',['mouseX',['../struct_s_d_l___mouse_wheel_event.html#a602d03699be268ecd13feb8c53e6738b',1,'SDL_MouseWheelEvent']]],
+  ['mousey_16',['mouseY',['../struct_s_d_l___mouse_wheel_event.html#a7ed6f8543a20c43c12ba75e9db901081',1,'SDL_MouseWheelEvent']]],
+  ['movement_17',['movement',['../class_enemy.html#a4aa1a04274cc91f48bef92027007ee66',1,'Enemy']]],
+  ['movementthreshold_18',['movementThreshold',['../class_enemy.html#ad8e815220053de27709b01ccd95b8853',1,'Enemy']]],
+  ['mprojectiles_19',['mProjectiles',['../class_enemy.html#afd225be02f18709c3c946f96f1d00401',1,'Enemy']]],
+  ['mrenderable_20',['mRenderable',['../class_game_entity.html#a22d3bbec17b0b7ae485c40f925327ece',1,'GameEntity']]],
+  ['mrenderer_21',['mRenderer',['../class_enemy.html#aa18d8ac40f31f221a417680fec56337f',1,'Enemy']]],
+  ['msg_22',['msg',['../struct_s_d_l___sys_w_m_event.html#ad5e3dc68aa15582cd0641847d41c74e8',1,'SDL_SysWMEvent::msg'],['../struct_s_d_l___sys_w_mmsg.html#a74894ed060d5508ab06aac584154d61e',1,'SDL_SysWMmsg::msg'],['../struct_s_d_l___sys_w_mmsg.html#a8f5a4c588097eb6fd252564a3d0144d0',1,'SDL_SysWMmsg::msg']]],
+  ['mutex_23',['mutex',['../_s_d_l__mutex_8h.html#a0e2ae8dca74d9f6c2bbe87030b9e7a0c',1,'SDL_mutex.h']]]
+];

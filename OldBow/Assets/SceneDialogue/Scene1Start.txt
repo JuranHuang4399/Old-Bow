@@ -1,0 +1,12 @@
+background: Assets/DialogueBackgrounds/Scene1StartBackground.bmp
+line: Welcome! Left click to continue the dialogue.
+line: After years of travel, you found solace in this quiet village, far removed from the chaos you once knew.
+line: The villagers live in peace, untouched by time and conflict, their lives a simple rhythm of routine and rest.
+line: For decades, no threat has dared to darken these shores, and none thought the peaceful days would ever end.
+line: But today, as you walk the winding path, three figures approach, each limping as if the world itself weighs them down.
+line: Curiosity urges you to draw near, but before you can reach them, their hollow eyes turn toward you and they attack!
+line: Base Controls#1: Press space bar to fire an arrow to defeat enemies.
+line: Base Controls#2: Press a or left key to move left. Press d or right key to move right.
+line: Hint#1: The main character is a mortal, 1 hit means death
+line: Hint#2: Bosses don't have health bars but they do take multiple hits to be killed.
+line: Hint#3: To pass a scene, only bosses need to be defeated! This is not a easy game, good luck!

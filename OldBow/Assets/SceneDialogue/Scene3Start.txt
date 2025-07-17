@@ -1,0 +1,6 @@
+background: Assets/DialogueBackgrounds/Scene3StartBackground.bmp
+line: The warning came too late. The ground beneath your feet trembles, and fissures open wide, spewing molten rock into the air.
+line: From the depths of the earth, a creature of myth and nightmare emerges, its eyes burning with fury as it turns to you.
+line: 'You have thwarted my harvest,' it snarls, 'your meddling will cost you dearly.'
+line: But you stand firm, the weight of your duty heavy on your shoulders. For every second you delay this monster, the village breathes a little longer.
+line: With the certainty of a man who knows his fate, you lift your weapon, ready to meet death in the face, knowing this battle will be your final sacrifice.
